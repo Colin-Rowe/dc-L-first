@@ -1,0 +1,33 @@
+* {
+	margin: 0px; padding: 0px;
+}
+body {
+	font: 18px/normal Microsoft YaHei, Î¢ÈíÑÅºÚ, SimSun, ËÎÌå, Arial, Verdana; text-align: center; color: rgb(0, 0, 0); font-size-adjust: none; font-stretch: normal;
+}
+a:link {
+	color: rgb(102, 194, 255); text-decoration: none;
+}
+a:visited {
+	color: rgb(102, 194, 255); text-decoration: none;
+}
+a:hover {
+	color: rgb(255, 0, 0); text-decoration: underline;
+}
+input {
+	font: 100%/normal Microsoft YaHei, Î¢ÈíÑÅºÚ, SimSun, ËÎÌå, Arial, Verdana; font-size-adjust: none; font-stretch: normal;
+}
+select {
+	font: 100%/normal Microsoft YaHei, Î¢ÈíÑÅºÚ, SimSun, ËÎÌå, Arial, Verdana; font-size-adjust: none; font-stretch: normal;
+}
+textarea {
+	font: 100%/normal Microsoft YaHei, Î¢ÈíÑÅºÚ, SimSun, ËÎÌå, Arial, Verdana; font-size-adjust: none; font-stretch: normal;
+}
+em {
+	color: rgb(255, 0, 0); font-style: normal; margin-right: 5px;
+}
+img {
+	border: 0px currentColor; border-image: none; width: 100%; vertical-align: middle;
+}
+.main {
+	margin: 0px auto; width: 100%; text-align: left; max-width: 640px;
+}
